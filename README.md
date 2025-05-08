@@ -6,7 +6,7 @@ Calculating  of attention matrices
 ---
 
 1. Download the pre-trained network parameter“chembl_pubchem_zinc_models” and place them in the **attention** folder. For details, refer to：[https://github.com/WeilabMSU/PretrainModels/blob/main/README.md]
-2. We modified `torch.nn.functional` to save the 8×8 QKT matrix as `8_heads` since the original code lacks this interface—please copy our code entirely and ensure `torch.nn.functional` hasn't been overwritten after installing `torch`.
+2. We modified `torch.nn.functional` to save the 8×8 QKT matrix  since the original code lacks this interface—please copy our code entirely and ensure `torch.nn.functional` hasn't been overwritten after installing `torch`.
 3. Convert the sample to smi format, place it in the `/data/input_smiles` folder, and run `generate_bt_fps.py` to save the resulting attention matrix in the `middle_attention` folder.
 
 
