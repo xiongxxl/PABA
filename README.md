@@ -1,5 +1,6 @@
 This note provides the data and code of  this paper
-![[smiles_si_overview_v05_20250326 2.jpg]]
+![[overview.jpg]]
+
 Calculating  of attention matrices
 
 ---
