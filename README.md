@@ -2,6 +2,16 @@ This note provides the data and code of  this paper
 
 ![overview](overview.jpg)
 
+configuration environment
+
+---
+python： 3.12.1
+pandas
+
+
+
+
+
 Calculating  of attention matrices
 
 ---
