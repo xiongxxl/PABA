@@ -2,7 +2,7 @@ This note provides the data and code of  this paper
 
 ![overview](overview.jpg)
 
-configuration environment
+Configurating environment
 
 ---
 
