@@ -5,12 +5,13 @@ This note provides the data and code of  this paper
 configuration environment
 
 ---
-python： 3.12.1
-pandas
-
-
-
-
+Python:3.12.1
+Numpy 1.26.4
+pandas:2.2.1
+rdkit:2023.09.6
+pytorch:2.2.2
+seaborn :0.13.2
+scipy:1.1.3.2
 
 Calculating  of attention matrices
 
